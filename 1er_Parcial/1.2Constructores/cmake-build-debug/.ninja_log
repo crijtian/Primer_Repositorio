@@ -1,0 +1,12 @@
+# ninja log v5
+1	1080	7325064116765416	CMakeFiles/1_2Constructores.dir/main.cpp.obj	98b8642d2677634c
+4	752	7325067939598977	CMakeFiles/1_2Constructores.dir/Rectangulo.cpp.obj	6bf6a4bc5a90f2b
+752	1486	7325067946883052	1_2Constructores.exe	d0aebc1ccb3fae2c
+4	795	7325068297921957	CMakeFiles/1_2Constructores.dir/Rectangulo.cpp.obj	6bf6a4bc5a90f2b
+796	1531	7325068305184559	1_2Constructores.exe	d0aebc1ccb3fae2c
+6	987	7325072556351045	CMakeFiles/1_2Constructores.dir/main.cpp.obj	98b8642d2677634c
+90	1245	7325072558947591	CMakeFiles/1_2Constructores.dir/Rectangulo.cpp.obj	6bf6a4bc5a90f2b
+1246	2024	7325072566633479	1_2Constructores.exe	d0aebc1ccb3fae2c
+3	805	7325073299823984	CMakeFiles/1_2Constructores.dir/main.cpp.obj	98b8642d2677634c
+60	1087	7325073302626776	CMakeFiles/1_2Constructores.dir/Rectangulo.cpp.obj	6bf6a4bc5a90f2b
+1087	1694	7325073308663518	1_2Constructores.exe	d0aebc1ccb3fae2c

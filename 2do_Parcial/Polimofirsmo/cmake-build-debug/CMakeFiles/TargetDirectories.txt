@@ -1,0 +1,3 @@
+C:/Users/textu/CLionProjects/2do_SEMESTRE_Programacion/2do_Parcial/Polimofirsmo/cmake-build-debug/CMakeFiles/Polimofirsmo.dir
+C:/Users/textu/CLionProjects/2do_SEMESTRE_Programacion/2do_Parcial/Polimofirsmo/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/textu/CLionProjects/2do_SEMESTRE_Programacion/2do_Parcial/Polimofirsmo/cmake-build-debug/CMakeFiles/rebuild_cache.dir

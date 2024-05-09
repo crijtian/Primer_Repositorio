@@ -1,0 +1,10 @@
+# ninja log v5
+0	880	7325228268915972	CMakeFiles/1_3Sobrecarga_Constructores.dir/main.cpp.obj	7bf3dc7ce8ad9737
+71	1174	7325228271857031	CMakeFiles/1_3Sobrecarga_Constructores.dir/Tiempo.cpp.obj	439445cad4acd854
+1175	1834	7325228278412889	1_3Sobrecarga_Constructores.exe	6a26f956b8e3c96e
+5	849	7325230931379980	CMakeFiles/1_3Sobrecarga_Constructores.dir/Tiempo.cpp.obj	439445cad4acd854
+850	1585	7325230938648827	1_3Sobrecarga_Constructores.exe	6a26f956b8e3c96e
+4	810	7325232331729450	CMakeFiles/1_3Sobrecarga_Constructores.dir/Tiempo.cpp.obj	439445cad4acd854
+810	1508	7325232338647900	1_3Sobrecarga_Constructores.exe	6a26f956b8e3c96e
+4	801	7325233020218462	CMakeFiles/1_3Sobrecarga_Constructores.dir/Tiempo.cpp.obj	439445cad4acd854
+801	1488	7325233027017272	1_3Sobrecarga_Constructores.exe	6a26f956b8e3c96e

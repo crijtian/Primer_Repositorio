@@ -1,0 +1,3 @@
+C:/Users/textu/CLionProjects/2do_SEMESTRE_Programacion/1er_Parcial/MateDiscretasComprobacionDeVerdad/cmake-build-debug/CMakeFiles/MateDiscretasComprobacionDeVerdad.dir
+C:/Users/textu/CLionProjects/2do_SEMESTRE_Programacion/1er_Parcial/MateDiscretasComprobacionDeVerdad/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/textu/CLionProjects/2do_SEMESTRE_Programacion/1er_Parcial/MateDiscretasComprobacionDeVerdad/cmake-build-debug/CMakeFiles/rebuild_cache.dir

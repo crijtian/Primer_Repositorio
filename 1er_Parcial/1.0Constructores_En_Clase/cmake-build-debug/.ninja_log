@@ -1,0 +1,8 @@
+# ninja log v5
+1	788	7340578001712862	CMakeFiles/1_0Constructores_En_Clase.dir/main.cpp.obj	304ccd26a1f78e79
+67	1059	7340578004425938	CMakeFiles/1_0Constructores_En_Clase.dir/Coche.cpp.obj	1369d88a15ec4e72
+131	1242	7340578006263034	CMakeFiles/1_0Constructores_En_Clase.dir/FloatCell.cpp.obj	88c5802bd4d9b285
+6	634	7340581447936992	CMakeFiles/1_0Constructores_En_Clase.dir/main.cpp.obj	304ccd26a1f78e79
+634	1257	7340581454115614	1_0Constructores_En_Clase.exe	7c3d10b5d8ee4a2f
+7	866	7342182507517649	CMakeFiles/1_0Constructores_En_Clase.dir/FloatCell.cpp.obj	88c5802bd4d9b285
+866	1606	7342182514871138	1_0Constructores_En_Clase.exe	7c3d10b5d8ee4a2f
